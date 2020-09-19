@@ -1,0 +1,38 @@
+#nav_bar
+{
+	font-weight: bold;
+	background-color: lightgrey;
+	border: solid 3px black;
+	padding: 20px;
+	border-radius: 0px;
+	
+}
+	
+#logo
+{
+	color: black;
+}
+
+.section-one >h1
+{
+	font-weight: bold;
+}
+
+.container
+{
+	background-color: lightgrey;
+	padding: 0px;
+	height: 1000px;
+}
+
+.container>h1
+{
+	font-weight: bold;
+}
+
+.container>p
+{
+	font-weight: bold;
+	padding: 30px
+}
+
