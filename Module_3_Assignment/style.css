@@ -1,0 +1,35 @@
+#mynav
+{
+	border-radius: 0;
+	border: solid 3px black;
+	background-color: lightgrey;
+}
+
+#NavBrand>a
+{
+	color: black;
+	font-weight: bold;
+}
+
+#menu
+{
+	font-weight: bold;
+}
+
+#chicken
+{
+	background-color: lightgrey;
+	padding: 30px;
+}
+
+#beef
+{
+	background-color: lightgrey;
+	padding: 30px;
+}
+
+#sushi
+{
+	background-color: lightgrey;
+	padding: 30px;
+}
